@@ -3,6 +3,7 @@
 ![preview](./.github/preview.png)
 
 > Trilha Discover
+
 Desafio criado pela Rocketseat para desenvolver uma página de receitas
 
 [Clique aqui para acessar](https://luscv.github.io/Receita/)
